@@ -5,4 +5,4 @@
 - This is a second bullet point.
 - Pycharm works fine with markdown style! Cool
 
-I realy enjoy pycharm.
+I really enjoy pycharm.
